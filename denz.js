@@ -1,4 +1,4 @@
-;const
+const
 	{
 	    WAConnection: _WAConnection,
 		MessageType,
